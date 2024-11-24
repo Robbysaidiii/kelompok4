@@ -1,8 +1,7 @@
 streamlit
-opencv-python
+opencv-python-headless  # Gunakan versi headless untuk Streamlit Cloud
 numpy
 scikit-image
 matplotlib
 mysql-connector-python
 Pillow
-#tambahan
